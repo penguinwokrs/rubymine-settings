@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7c5f3f3-4310-4dff-9776-07bc790514c6" name="develop" url="http://localhost">
+        <fileTransfer host="localhost" port="22" rootFolder="/home/kou" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAoNtSgNIq5GUDfWQwDIdVy/DT3pThq02Oie+Faki2/42hhe0bH2dZs9nsTOAEtzmkZ52H0DE7xf5DXpy9tLbbI6gGqrt2s8UK2ITaaj/en+pchIPOHNFKr6C6ilJzKgGLxaAIT2GvBrwi5bv2g/G/qz7S3GtYgz7rvDelkuRnZDMQCKdlx47IwKspc/I+F2bg2IMBJtuCx/pR/10a9EfIvarlXViAOEkh9ODP6DnXeAmV</data>
+  </component>
+</application>
