@@ -1,112 +1,41 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Remote:ruby-2.3.0-p0" />
+      <name value="rbenv: 2.3.1" />
       <type value="RUBY_SDK" />
-      <version value="ver.2.3.0p0 ( revision 53290) p0" />
-      <homePath value="ssh://kou@127.0.0.1:22/home/kou/.rbenv/versions/2.3.0/bin/ruby" />
+      <version value="ver.2.3.1p112 ( revision 54768) p112" />
+      <homePath value="$USER_HOME$/.rbenv/versions/2.3.1/bin/ruby" />
       <roots>
         <classPath>
           <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/site_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/site_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/vendor_ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/vendor_ruby/2.3.0/x86_64-darwin15" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0" />
+            <root type="simple" url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/2.3.0/x86_64-darwin15" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
           </root>
         </sourcePath>
       </roots>
-      <additional NORMALIZED_VERSION_STRING="ver.2.3.0p0 ( revision 53290) p0" PLATFORM="x86_64-linux" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241\302937086" DATA-VERSION="2" HOST="127.0.0.1" PORT="22" ANONYMOUS="false" USERNAME="kou" PASSWORD="dfccdfcbdfc3dfccdfcbdfc4" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/kou/.rbenv/versions/2.3.0/bin/ruby" HELPERS_PATH="/home/kou/.rubymine_helpers" INITIALIZED="false" VALID="true">
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/gems" />
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/bundler/gems" />
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/gems" />
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/bundler/gems" />
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/302937086" remote-root="/home/kou/.rbenv/versions/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/bin" remote-root="/home/kou/.gem/ruby/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/gems" remote-root="/home/kou/.gem/ruby/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/specifications" remote-root="/home/kou/.gem/ruby/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/bundler" remote-root="/home/kou/.gem/ruby/2.3.0/bundler" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/bin" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/gems" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/specifications" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/bundler" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler" />
-            </list>
-          </option>
-        </PathMappingSettings>
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/302937086" remote-root="/home/kou/.rbenv/versions/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/bin" remote-root="/home/kou/.gem/ruby/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/gems" remote-root="/home/kou/.gem/ruby/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/specifications" remote-root="/home/kou/.gem/ruby/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/1877524211/bundler" remote-root="/home/kou/.gem/ruby/2.3.0/bundler" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/bin" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/gems" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/specifications" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/1983823241/-690102416/bundler" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Remote:ruby-2.3.0-p0 (1)" />
-      <type value="RUBY_SDK" />
-      <version value="ver.2.3.0p0 ( revision 53290) p0" />
-      <homePath value="sftp://kou@localhost:22/home/kou/.rbenv/versions/2.3.0/bin/ruby" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs23" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional NORMALIZED_VERSION_STRING="ver.2.3.0p0 ( revision 53290) p0" PLATFORM="x86_64-linux" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108\302937086" DATA-VERSION="2" WEB_SERVER_CONFIG_ID="a7c5f3f3-4310-4dff-9776-07bc790514c6" WEB_SERVER_CONFIG_NAME="develop" HOST="localhost" PORT="22" ANONYMOUS="false" USERNAME="kou" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/kou/.rbenv/versions/2.3.0/bin/ruby" HELPERS_PATH="/home/kou/.rubymine_helpers" INITIALIZED="false" VALID="true">
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/gems" />
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/bundler/gems" />
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/gems" />
-        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/bundler/gems" />
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/302937086" remote-root="/home/kou/.rbenv/versions/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/bin" remote-root="/home/kou/.gem/ruby/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/gems" remote-root="/home/kou/.gem/ruby/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/specifications" remote-root="/home/kou/.gem/ruby/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/bundler" remote-root="/home/kou/.gem/ruby/2.3.0/bundler" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/bin" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/gems" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/specifications" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/bundler" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler" />
-            </list>
-          </option>
-        </PathMappingSettings>
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/302937086" remote-root="/home/kou/.rbenv/versions/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/bin" remote-root="/home/kou/.gem/ruby/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/gems" remote-root="/home/kou/.gem/ruby/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/specifications" remote-root="/home/kou/.gem/ruby/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/1877524211/bundler" remote-root="/home/kou/.gem/ruby/2.3.0/bundler" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/bin" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bin" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/gems" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/specifications" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/specifications" />
-              <mapping local-root="$USER_HOME$/.RubyMine2016.2/system/ruby_stubs/-594685108/-690102416/bundler" remote-root="/home/kou/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
+      <additional NORMALIZED_VERSION_STRING="ver.2.3.1p112 ( revision 54768) p112" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="$USER_HOME$/.rbenv/versions/2.3.1/bin" />
     </jdk>
   </component>
 </application>

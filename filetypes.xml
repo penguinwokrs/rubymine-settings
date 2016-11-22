@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="hh" type="PLAIN_TEXT" />
-      <mapping pattern="GaidanceMaster" type="PLAIN_TEXT" />
-      <mapping ext="schema" type="Ruby" />
+      <mapping ext="tag" type="HTML" />
+      <removed_mapping ext="tag" type="JSP" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

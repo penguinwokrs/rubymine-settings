@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="customScope" value="Project 'typing_game'" />
+    <option name="defaultScopeName" value="Project 'typing_game'" />
+    <option name="SEARCH_SCOPE" value="Project 'typing_game'" />
     <recentFileMasks>
       <mask>*.properties</mask>
+      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -15,9 +13,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.xlsx</mask>
       <mask>*.rb</mask>
-      <mask>*.ts</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
