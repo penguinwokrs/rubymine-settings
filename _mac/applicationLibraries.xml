@@ -155,6 +155,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.13.3/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.13.6/man" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/CFPropertyList-2.2.8/lib" />
