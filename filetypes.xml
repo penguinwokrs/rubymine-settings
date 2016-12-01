@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" type="JSP" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
