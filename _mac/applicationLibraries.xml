@@ -566,6 +566,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
+    <library name="pry-doc (v0.9.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/pry-doc-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/pry-doc-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rack-2.0.1/bin" />
@@ -662,6 +670,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-update (v2.6.8, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/util" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/bundler" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/util" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/bundler" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rubygems-update-2.6.8/hide_lib_for_update" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, rbenv: 2.3.1) [gem]">
@@ -874,6 +898,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/websocket-extensions-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.5, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/templates" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/templates" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yard-0.9.5/benchmarks" />
       </SOURCES>
     </library>
   </component>
