@@ -356,12 +356,10 @@
     </library>
     <library name="debase (v0.2.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </SOURCES>
@@ -408,11 +406,9 @@
     </library>
     <library name="debase-ruby_core_source (v0.9.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase-ruby_core_source/0.9.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase-ruby_core_source/0.9.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.4/lib" />
       </SOURCES>
     </library>
@@ -498,14 +494,12 @@
     </library>
     <library name="ffi (v1.9.14, rbenv: 2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ffi-1.9.14/lib" />
@@ -830,10 +824,10 @@
     </library>
     <library name="method_source (v0.8.2, rbenv: 2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/method_source-0.8.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="method_source (v0.8.2, rbenv: 2.3.3) [gem]">
@@ -1080,12 +1074,12 @@
     </library>
     <library name="pry (v0.10.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/pry-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pry-0.10.4/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.4, rbenv: 2.3.3) [gem]">
@@ -1222,13 +1216,11 @@
     </library>
     <library name="rb-fsevent (v0.9.8, rbenv: 2.3.1) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
@@ -1430,6 +1422,16 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.7/faq" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.7/lib" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="terminal-notifier-guard (v1.7.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/terminal-notifier-guard-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/terminal-notifier-guard-1.7.0/icons" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/terminal-notifier-guard-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/terminal-notifier-guard-1.7.0/icons" />
       </SOURCES>
     </library>
     <library name="terminal-notifier-guard (v1.7.0, rbenv: 2.3.3) [gem]">
