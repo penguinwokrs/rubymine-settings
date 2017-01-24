@@ -5,6 +5,7 @@
       <removed_mapping ext="tag" type="JSP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="Appraisals" type="PLAIN_TEXT" />
