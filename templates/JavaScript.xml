@@ -2,8 +2,8 @@
   <template name="debug" value="console.debug($INDEX$)" description="debug" toReformat="true" toShortenFQNames="true">
     <variable name="INDEX" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
