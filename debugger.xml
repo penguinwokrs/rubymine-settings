@@ -11,6 +11,7 @@
       <debugger id="ruby">
         <configuration>
           <option name="stepIntoProjectOnly" value="true" />
+          <option name="timeout" value="60" />
         </configuration>
       </debugger>
     </debuggers>
