@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping pattern="ruby" type="Ruby" />
     </extensionMap>
   </component>
 </application>
