@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pictures" type="ECMAScript 6" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping pattern="ruby" type="Ruby" />
