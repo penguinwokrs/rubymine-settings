@@ -1,24 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.xlsx</mask>
-      <mask>*.rb</mask>
-      <mask>*.csv</mask>
-      <mask>h</mask>
-      <mask>ht</mask>
-      <mask>html*</mask>
-      <mask>html</mask>
-      <mask>*.html.haml</mask>
       <mask>*.html.ham</mask>
       <mask>*.html.ha</mask>
       <mask>*.html.h</mask>
@@ -29,6 +15,26 @@
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>no</mask>
+      <mask>node</mask>
+      <mask>node_</mask>
+      <mask>node_mo</mask>
+      <mask>node_modu</mask>
+      <mask>node_module</mask>
+      <mask>node_modules</mask>
+      <mask>node_modules/</mask>
+      <mask>*node_modules/*</mask>
+      <mask>*/node_modules/*</mask>
+      <mask>/node_modules/*</mask>
+      <mask>node_modules/*</mask>
+      <mask>r</mask>
+      <mask>rb.</mask>
+      <mask>.*rb</mask>
+      <mask>.rb</mask>
+      <mask>rb</mask>
+      <mask>rrb</mask>
+      <mask>*.rbrb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
