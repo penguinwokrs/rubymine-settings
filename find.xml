@@ -5,16 +5,14 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.haml" />
     <recentFileMasks>
-      <mask>*.html.ham</mask>
-      <mask>*.html.ha</mask>
       <mask>*.html.h</mask>
       <mask>*.html.</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>no</mask>
       <mask>node</mask>
@@ -36,6 +34,9 @@
       <mask>rrb</mask>
       <mask>*.rbrb</mask>
       <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
