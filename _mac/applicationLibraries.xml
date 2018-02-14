@@ -1518,14 +1518,12 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
-    <library name="firebase-ruby (v0.2.0.1, rbenv: 2.4.1) [gem]">
+    <library name="firebase (v0.2.8, rbenv: 2.4.1) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/firebase-ruby-0.2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/firebase-ruby-0.2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/firebase-0.2.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/firebase-ruby-0.2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/firebase-ruby-0.2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/firebase-0.2.8/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.4.1, rbenv: 2.4.1) [gem]">
