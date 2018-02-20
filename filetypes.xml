@@ -6,6 +6,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping pattern="ruby" type="Ruby" />
     </extensionMap>
