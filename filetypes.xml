@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pictures" type="ECMAScript 6" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="" type="JavaScript" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
