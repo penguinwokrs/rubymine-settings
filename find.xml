@@ -4,40 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.html.</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.js</mask>
-      <mask>no</mask>
-      <mask>node</mask>
-      <mask>node_</mask>
-      <mask>node_mo</mask>
-      <mask>node_modu</mask>
-      <mask>node_module</mask>
-      <mask>node_modules</mask>
-      <mask>node_modules/</mask>
-      <mask>*node_modules/*</mask>
-      <mask>*/node_modules/*</mask>
-      <mask>/node_modules/*</mask>
-      <mask>node_modules/*</mask>
-      <mask>r</mask>
-      <mask>rb.</mask>
-      <mask>.*rb</mask>
-      <mask>.rb</mask>
-      <mask>rb</mask>
-      <mask>rrb</mask>
-      <mask>*.rbrb</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
-      <mask>*.haml</mask>
-      <mask>*.rb, *.yml, *.yaml</mask>
-    </recentFileMasks>
   </component>
 </application>
