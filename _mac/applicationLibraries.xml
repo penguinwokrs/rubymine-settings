@@ -1536,6 +1536,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="bond (v0.5.1, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bond-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bond-0.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.0.0-alpha.2_js_bootstrap.js" />
@@ -3225,6 +3233,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/retryable-2.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rib (v1.5.4, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rib-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rib-1.5.4/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.7.0, rbenv: 2.4.1) [gem]">
