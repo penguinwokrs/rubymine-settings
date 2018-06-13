@@ -1628,6 +1628,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.2/lib" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.2, rbenv: 2.4.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/bundler-1.16.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.2/lib" />
