@@ -6,6 +6,7 @@
       <mapping pattern="" type="JavaScript" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern=".build" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
