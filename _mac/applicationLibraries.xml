@@ -1305,11 +1305,6 @@
       </excluded>
     </library>
     <library name="omise" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.omise.co_omise.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.omise.co_omise.js" />
       </CLASSES>
