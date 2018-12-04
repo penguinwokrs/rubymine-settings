@@ -1849,6 +1849,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
       </excluded>
     </library>
+    <library name="rb-readline (v0.5.5, rbenv: 2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/rb-readline-0.5.5/examples" />
+      </excluded>
+    </library>
     <library name="rdoc (v4.2.1, rbenv: 2.3.4) [gem]">
       <CLASSES />
       <SOURCES />
